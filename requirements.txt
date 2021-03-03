@@ -104,7 +104,7 @@ sphinxcontrib-serializinghtml==1.1.4
 spyder==3.3.5
 spyder-kernels==0.5.2
 tensorboard==1.14.0
-tensorflow 1.14.0
+tensorflow ==1.14.0
 termcolor==1.1.0
 testpath==0.4.4
 Theano @ file:///D:/bld/theano_1604228796430/work
